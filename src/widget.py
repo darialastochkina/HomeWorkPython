@@ -2,6 +2,7 @@
 from src import masks
 
 def mask_account_card(acc: str) -> str:
+    ''' функция счёта'''
     number = ''
     name_card = ''
     for i in acc:
