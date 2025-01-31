@@ -15,4 +15,3 @@ def get_mask_account(account_number):
     return masked_account
 account_number = input()
 print(get_mask_account(account_number))
-
